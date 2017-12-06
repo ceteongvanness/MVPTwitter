@@ -574,6 +574,27 @@ function FollowUser($userId, $name)
     $response = DoPost "https://twitter.com/i/user/follow" $post $global:authCookies
 }
 
+function SendDirectMessage($name, $message)
+{
+    $result = GetUserId $name;
+    $targetuserid = $result[0];
+    $isFollowing = $result[1];
+
+    Write-Host "Sending Message to $targetUserId" -ForegroundColor Green;    
+    
+    $global:accept = "application/json, text/javascript, */*; q=0.01";
+    $global:Referer = "https://twitter.com/$name";
+
+    $global:headers.add("X-Twitter-Active-User","yes");
+    $global:headers.add("X-Requested-With","XMLHttpRequest");
+    $global:headers.add("DNT","1");
+
+    $convoId = $userId.tostring() + "-" + $targetuserId.tostring();
+
+    $post = "authenticity_token=" + $global:pageAuthToken + "&conversation_id=$convoId&resend_id=1&scribeContext%5Bcomponent%5D=tweet_box_dm&tagged_users=&text=$message&tweetboxId=swift_tweetbox_1512536683287";
+    $response = DoPost "https://twitter.com/i/direct_messages/new" $post $global:authCookies
+}
+
 function FollowUserApi($userId, $name)
 {
     Write-Host "Following user $userId" -ForegroundColor Green;  
@@ -641,9 +662,9 @@ function Login($username, $password)
 
         $auth_token = ParseValue $response "authenticity_token`" value=`"" "`"";
         $challengeId = ParseValue $response "challenge_id`" value=`"" "`"";
-        $userId = ParseValue $response "user_id`" value=`"" "`"";
+        $global:userId = ParseValue $response "user_id`" value=`"" "`"";
 
-        $post = "authenticity_token=$auth_token&challenge_id=$challengeId&user_id=$userId&challenge_type=Sms&platform=web&redirect_after_login=&remember_me=true&challenge_response=$code";
+        $post = "authenticity_token=$auth_token&challenge_id=$challengeId&user_id=$global:userId&challenge_type=Sms&platform=web&redirect_after_login=&remember_me=true&challenge_response=$code";
 
         $global:allowAutoRedirect = $false;
         $response = DoPost "https://twitter.com/account/login_verification" $post $global:authCookies;
@@ -703,6 +724,15 @@ if (!$global:loginAuthToken)
 }
 
 <#
+
+$ids = get-content "DirectMessageList.txt";
+$message = get-content "DirectMessageMessage.txt";
+
+foreach($id in $ids)
+{
+    SendDirectMessage $id $message;
+}
+
 $clear = read-host "Would you like to clear old non-tweeted accounts (y/n)?"
 
 if ($clear.tolower() -eq "y")
@@ -721,7 +751,7 @@ while($true)
 {
     write-host "Available mvp types:"
 
-    $types = @("All", "AI", "Access","Business Solutions","Cloud and Datacenter Management","Data Platform","Enterprise Mobility","Excel","Microsoft Azure","Office Development","Office Servers and Services","OneNote","Outlook","PowerPoint","Project","Visio", "Visual Studio and Development Technologies","Windows and Devices for IT","Windows Development", "Word")
+    $types = @("All", "Regional Director", "AI", "Access","Business Solutions","Cloud and Datacenter Management","Data Platform","Enterprise Mobility","Excel","Microsoft Azure","Office Development","Office Servers and Services","OneNote","Outlook","PowerPoint","Project","Visio", "Visual Studio and Development Technologies","Windows and Devices for IT","Windows Development", "Word")
 
     foreach ($type in $types)
     {
