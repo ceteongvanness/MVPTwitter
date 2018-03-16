@@ -1,7 +1,7 @@
 .apatricio
+_danialonso
 _Guido_Oliveira
 _Guido_Oliveira
-ABaumgarten
 adamdriscoll
 adbertram
 AdinErmie
@@ -35,6 +35,7 @@ brianbourne
 BrianEh
 BrienPosey
 buchatech
+buchatech
 BunkCo
 carlos_perez
 CedricBravo
@@ -49,6 +50,7 @@ cmank7
 concentratdgreg
 Crypt32
 damian_flynn
+daniel_apps
 danieldonda
 DanieleGrandini
 darifer66
@@ -119,10 +121,12 @@ Jaykul
 jayrbarrios
 je_will
 JeffAprea
+JeffAprea
 jeffhicks
 jeffwouters
 jfberenguer_pro
 jfberenguer_pro
+JFE_CH
 JGAITPro
 jioller
 john_joyner
@@ -159,6 +163,7 @@ makovec
 manojlovicl
 MarceloRivero
 marcelosincic
+markekraus
 markscholman
 marnixwolf
 MasayaSawada
@@ -235,13 +240,16 @@ samerskine
 sanjayws
 savas_saygili
 sbsdiva
+screenshotsit
 scriptingwife
 scsmru
 SCSMUS
 Seguridadjabali
 serhatakinci
 SFoskett
+SifuSun
 SQL_aus_HH
+sqldbawithbeard
 sshzk
 StanZhelyazkov
 stefscherer

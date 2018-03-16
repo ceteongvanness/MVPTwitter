@@ -2,6 +2,7 @@
 _hakimtaoussi
 _leedesmond
 0929akira
+24x7ITConnect
 a_uruno
 aaclage
 aafvstam
@@ -40,6 +41,7 @@ asifrehmani
 atomicvee
 aymanelhattab
 baywet
+Beau__Cameron
 beckybertram
 benoit_hamet
 benrobb
@@ -100,6 +102,7 @@ eshupps
 eudesolivier
 Evan_Zaleschuk
 expta
+expta
 FabianImaz
 FabianMoritz
 fabianwilliams
@@ -117,7 +120,6 @@ genkiw
 georgathomas
 GetCsJosh
 givenscj
-GokanOzcifci
 greggomatic
 greiginsydney
 GS_MCM
@@ -136,6 +138,7 @@ hkusulja
 hrfmjp
 IbrahimBenna
 idubbs
+ILAGBALU
 ILAGBALU
 imacori
 imvo2
@@ -201,6 +204,7 @@ levalencia
 limozinlionel
 LonyaDFrench
 loryanstrant
+Luc_Labelle
 Luca_Vitali
 Lyncguy
 maarteneekels
@@ -215,6 +219,7 @@ MartMisk
 mattein
 MatthewMcD
 MatthieuMegaly
+Mauricio_Cass
 maxmelcher
 MCSMLab
 MCSMLab
@@ -227,6 +232,7 @@ michaelbl
 michaeltnoel
 mickey75019
 migueltabera
+mikemaadarani
 MikeTCrowley
 mirjamvanolst
 MizobataFumio
@@ -308,6 +314,7 @@ sezai
 shaibs
 ShakthiRavi
 shanehoey
+sharepointandy
 sharepointby
 sharepointerie
 SharePointIssue
@@ -315,6 +322,7 @@ SharePointKris
 sharepointlhorn
 sharepointszu
 sharePTkarm
+ShrPntKnight
 SigiJ
 simongterry
 sldeere
@@ -330,6 +338,7 @@ StaleHansen
 stephaneeyskens
 stevegoodman
 StevenvanH
+SuhailCloud
 SuperTekBoy
 svillarrealt
 sympmarc
@@ -366,6 +375,7 @@ wardsco
 weshackett
 wictor
 wonderlaura
+xGokan
 YanivTotshvili
 yfwatson
 YoanTopenot

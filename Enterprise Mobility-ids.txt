@@ -52,6 +52,7 @@ KennyBuntinx
 kentnordstrom
 kidmystic
 kokocinskia
+krislgriffin
 Marcum_SCCMGuru
 marioserra72
 mariuszzarzycki
@@ -94,7 +95,7 @@ scdudes
 shorinsean
 skillriver
 spanougakis
-steve_tsql
+Steve_TSQL
 sylvaincortes
 Teknica
 thewmiguy

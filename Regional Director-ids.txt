@@ -89,7 +89,6 @@ mihailmateev
 mitsufu
 msugvnua
 nicolaferrini
-noopman
 nsasono
 orinthomas
 patricg
@@ -102,9 +101,9 @@ pvtrd
 rdiazconcha
 rfolkes
 rgonv
+richcampbell
 roberthogg
 rockylhotka
-rodrigoi
 rstropek
 shellecaldwell
 simon_sabin

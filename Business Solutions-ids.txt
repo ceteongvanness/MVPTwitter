@@ -1,9 +1,11 @@
 \eduardofreire
 _Gilabert_
 _raphaelrsantos
+365lyf
 a33ik
 AdamVero
 ahmadn82
+AJAnsariNAV
 Alex_Ermakov
 alexanderb
 AlexOnDAX
@@ -13,7 +15,6 @@ AndrewBibby
 andz_88
 atotovic
 AxFredrik
-AXManuals
 azevedo_pedro
 azurecurve
 BelindaTheGPcsi
@@ -25,6 +26,7 @@ crmentropy
 CRMGretchen
 crmgustaf
 crminnovation
+crmlarry
 crmviking
 customery
 Daikichi5963
@@ -65,10 +67,12 @@ JLattimer
 jlc_rve
 jlowther
 joegilldotcom
+joelleichty
 Josep__Pages
 Ju_li3n
 jukkan
 kennysaelen
+krosvold
 kurthatlevik
 LaneSwenka
 leontribe
@@ -77,11 +81,13 @@ lucvanvugt
 MacchinettiD
 MacgyverCRM
 mahender34
+mariotrentim
 markbrummel
 masa717suzuki
 mattnc
 mibuso_com
 MichaelSulz
+MikeFactorial
 mileyja
 mllorcag
 msprojexperts
@@ -93,7 +99,7 @@ navisionaxapta
 navsqlperf
 niktuk
 noce2k
-nzCRMguy
+nz365guy
 nzxrmguy
 okkiwiflyhome
 pabloperalta
@@ -102,6 +108,7 @@ ParkhurstNeil
 paulculmsee
 powerpappi
 prasannaadavi
+ProjectMVP
 pwmather
 RachelProfitt
 RajYRaman
@@ -110,6 +117,7 @@ ramontebar
 rappen
 RedbeardLee
 rhettclinton
+rick_mccutcheon
 robstefane
 rvvargas
 salimadamon

@@ -32,11 +32,13 @@ bornsql
 braneybi
 braneybi
 brianknight
+bweissman
 cathrinew
 CBellDBA
 chervinebhiwoo
 codezombi
 conseilit
+cwebb_bi
 DAGEOP
 DAGEOP
 DamianWidera
@@ -45,6 +47,7 @@ datachick
 datasciencedojo
 Datatouille
 dbaduck
+DBAWayne
 dbBerater
 denglishbi
 denisemc06
@@ -83,6 +86,7 @@ gunneyk
 heidienho
 heigesr2
 hiroshi1000
+Hohlick
 hotikisu
 hsedidin
 https:Twitter.COmAndyPT
@@ -178,6 +182,7 @@ rob_farley
 rquintino
 rushabhmehta
 ruthpozuelo
+RyanCaseyMBA
 ryanjadams
 salvador_ramos
 Sarab_SQLGeek
@@ -232,6 +237,7 @@ swynk
 TaraKizer
 TerryChuang
 TheBIccountant
+TheSmilingDBA
 Tim_Mitchell
 tomaz_tsql
 tonyrogerson

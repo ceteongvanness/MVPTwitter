@@ -1,10 +1,11 @@
-AmbienteOffice
+Benzadeus
 borianapetrova
 Dancolardelle
 ddalgleish?
 dilipandey
 ee_excel
 ExcelAudi
+excelcampus
 ExcelContaTIC
 EXCELGAARD
 ExcelHechoFacil
@@ -12,6 +13,7 @@ excelisfun
 ExcelUnplugged
 FunnyExcel
 heidienho
+HowToExcelBlog
 IngeborgNZ
 KarineDibaiLago
 kiyotoi
@@ -19,6 +21,7 @@ LeilaGharani
 maninweb
 Mon_Cher_Watson
 mrexcel
+olafusimichael
 option_explicit
 ottojgonzalez
 PeltierTech

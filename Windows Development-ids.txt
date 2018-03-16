@@ -1,4 +1,5 @@
 #petevick
+_mfery
 acasquete
 ailon
 alecdtucker
@@ -54,7 +55,6 @@ crocusgirl
 CryEarth_Sasaki
 cwaha
 CyrilCathala
-dachibox
 danardelean
 dapoulin
 davesmits
@@ -62,6 +62,7 @@ DBVaughan
 dctdev
 depechie
 diederikkrols
+Draconifore
 drenton72
 DrNeil
 dumontrenaud
@@ -207,12 +208,14 @@ SimonDarksideJ
 skendrot
 SnakeChia
 soreygarcia
+soydachi
 Subramanyam_B
 t_burger
 TareqAteik
 theothernt
 thomas_lebrun
 thomasclaudiush
+TimHuckaby
 TimHuckaby
 Tinux80
 Tinytoot
